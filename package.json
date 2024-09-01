@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@fontsource-variable/baloo-tamma-2": "^5.0.19",
+    "firebase": "^10.13.1",
     "next": "14.2.7",
+    "next-auth": "^4.24.7",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.3.0"
